@@ -1,0 +1,123 @@
+export const carQuestions = [
+    {
+      id: 1,
+      question: "What does ABS stand for in a car?",
+      options: ["Anti-lock Braking System", "Automatic Braking System", "Advanced Braking Support"],
+      correctAnswer: 0,
+    },
+    {
+      id: 2,
+      question: "Which company manufactures the Mustang?",
+      options: ["Chevrolet", "Ford", "Dodge"],
+      correctAnswer: 1,
+    },
+    {
+      id: 3,
+      question: "What is the top-selling car of all time?",
+      options: ["Toyota Corolla", "Volkswagen Golf", "Honda Civic"],
+      correctAnswer: 0,
+    },
+    {
+      id: 4,
+      question: "Which country is Bugatti from?",
+      options: ["Germany", "USA", "France"],
+      correctAnswer: 2,
+    },
+    {
+      id: 5,
+      question: "What is the common unit for car engine power?",
+      options: ["Horsepower", "Newton-meter", "Watt"],
+      correctAnswer: 0,
+    },
+    {
+      id: 6,
+      question: "Which car company produces the Civic?",
+      options: ["Toyota", "Honda", "Nissan"],
+      correctAnswer: 1,
+    },
+    {
+      id: 7,
+      question: "Which car feature improves aerodynamics?",
+      options: ["Sunroof", "Spoiler", "Fog Lights"],
+      correctAnswer: 1,
+    },
+    {
+      id: 8,
+      question: "What is Tesla primarily known for?",
+      options: ["Electric Cars", "Hybrid Cars", "Diesel Engines"],
+      correctAnswer: 0,
+    },
+    {
+      id: 9,
+      question: "Which country produces Ferrari?",
+      options: ["Germany", "Italy", "France"],
+      correctAnswer: 1,
+    },
+    {
+      id: 10,
+      question: "Which fuel is commonly used in diesel engines?",
+      options: ["Diesel", "Gasoline", "Ethanol"],
+      correctAnswer: 0,
+    },
+    {
+      id: 11,
+      question: "What does RPM stand for?",
+      options: ["Revolutions Per Minute", "Rotation Per Meter", "Run Per Mile"],
+      correctAnswer: 0,
+    },
+    {
+      id: 12,
+      question: "Which brand is famous for its Beetle model?",
+      options: ["Ford", "Volkswagen", "BMW"],
+      correctAnswer: 1,
+    },
+    {
+      id: 13,
+      question: "Which car company has a prancing horse as its logo?",
+      options: ["Ferrari", "Lamborghini", "Porsche"],
+      correctAnswer: 0,
+    },
+    {
+      id: 14,
+      question: "What is the term for an all-wheel-drive vehicle?",
+      options: ["FWD", "RWD", "AWD"],
+      correctAnswer: 2,
+    },
+    {
+      id: 15,
+      question: "What type of engine uses both gasoline and electric power?",
+      options: ["Hybrid", "Diesel", "Hydrogen"],
+      correctAnswer: 0,
+    },
+    {
+      id: 16,
+      question: "Which company produces the 911 model?",
+      options: ["Audi", "Porsche", "BMW"],
+      correctAnswer: 1,
+    },
+    {
+      id: 17,
+      question: "What is the main advantage of a turbocharger?",
+      options: ["Increases power output", "Reduces weight", "Improves fuel efficiency"],
+      correctAnswer: 0,
+    },
+    {
+      id: 18,
+      question: "Which car is known as the 'Godzilla'?",
+      options: ["Chevrolet Camaro", "Ford Mustang", "Nissan GT-R"],
+      correctAnswer: 2,
+    },
+    {
+      id: 19,
+      question: "What does SUV stand for?",
+      options: ["Sports Utility Vehicle", "Standard Utility Vehicle", "Special Utility Vehicle"],
+      correctAnswer: 0,
+    },
+    {
+      id: 20,
+      question: "Which car company makes the Model S?",
+      options: ["Tesla", "BMW", "Mercedes"],
+      correctAnswer: 0,
+    },
+  ];
+  

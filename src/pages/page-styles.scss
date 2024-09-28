@@ -1,0 +1,30 @@
+.home-container {
+  @apply w-full h-screen bg-[#F9FAFC];
+}
+
+.content-container {
+  @apply flex justify-center;
+}
+
+.grid-container {
+  width: 100%;
+  max-width: 1016px;
+  margin: 0px auto;
+  padding: 0px 32px;
+
+  display: grid;
+  grid-template-columns: 289px 1fr;
+  gap: 20px;
+}
+
+.secondary-nav {
+  max-width: 1016px;
+
+  padding: 32px;
+  margin: 0px auto;
+  margin-top: 60px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
