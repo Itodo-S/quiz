@@ -56,7 +56,7 @@ const RightSection = ({
 
     // Mark last question as answered
     setAnsweredQuestions(totalQuestions);
-    setSubmitted(true); // Set submitted state to true
+    setSubmitted(true); 
   };
 
   const percentage = Math.floor((answeredQuestions / totalQuestions) * 100);
